@@ -3,3 +3,6 @@ language: java
 os:
   windows
   linux
+
+notifications:
+  slack: feedygroupe:cvLCfv4FnJIDUhutD0JKsqhf
